@@ -6,7 +6,7 @@
 -How is the district summary affected?
   - Original data district_summary_df 
 
-![original]([Resources/original district data.png)](https://github.com/Saidakramov/School_District_Analysis/blob/bc5a8b9c8d4b22a655a872e30d2e7c2ce124978b/Resources/original%20district%20data.png)
+<img width="926" alt="original district data" src="https://user-images.githubusercontent.com/89552059/179434542-0515cade-d9b3-4cea-80c4-066ec6c00964.png">
   - New district summary df 
 
 ![new]([Resources/original district data.png](https://github.com/Saidakramov/School_District_Analysis/blob/b0db20a21f6cde3ec85ff143d07e23eac46b9732/Resources/new%20district%20data.png))
