@@ -20,15 +20,15 @@
   
 As we can see from the data Thomas High School increased their scores significantly, as a result having overall good standing.
 
--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 <img width="980" alt="Top5" src="https://user-images.githubusercontent.com/89552059/179434703-d7cfd098-425d-40ae-a2a9-793242ebe1fc.png">
 
 Thomas High School appeared on the top 5 schools list.
 
--How does replacing the ninth-grade scores affect the following:
-  -Math and reading scores by grade
-  -Scores by school spending
-  -Scores by school size
-  -Scores by school type
+- How does replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
