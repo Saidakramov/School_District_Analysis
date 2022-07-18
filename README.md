@@ -13,11 +13,9 @@
 - How is the school summary affected?
 
   - Original School Summary:
-  <img width="981" alt="original school summary" src="https://user-images.githubusercontent.com/89552059/179434659-73c1b429-ea98-4d4d-9f7d-92c0b0684d2b.png">
-  
+ 
   - New School Summary:
-  <img width="982" alt="new school summary" src="https://user-images.githubusercontent.com/89552059/179434683-3ce1c810-4587-4675-92b1-1104e6415ad0.png">
-  
+ 
 As we can see from the data Thomas High School increased their scores significantly, as a result having overall good standing.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
