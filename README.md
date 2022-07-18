@@ -13,19 +13,25 @@
 - How is the school summary affected?
 
   - Original School Summary:
+ <img width="977" alt="ths_original" src="https://user-images.githubusercontent.com/89552059/179436825-90fcfff4-a6a1-420c-8880-e25a4021192e.png">
  
   - New School Summary:
- 
+<img width="973" alt="ths_new" src="https://user-images.githubusercontent.com/89552059/179436863-a1127583-efe2-413f-af75-7294c91b80f5.png">
+
 As we can see from the data Thomas High School increased their scores significantly, as a result having overall good standing.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+    - Original top 5 list:
+    <img width="972" alt="top5_old" src="https://user-images.githubusercontent.com/89552059/179436963-88aa1e7d-e1a7-4674-a4be-6491804c47b5.png">
+    - New top 5 list:
 <img width="980" alt="Top5" src="https://user-images.githubusercontent.com/89552059/179434703-d7cfd098-425d-40ae-a2a9-793242ebe1fc.png">
 
-Thomas High School appeared on the top 5 schools list.
+Thomas High School remained at the same rank, even though their average scores slightly changed. 
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+    - Original math and reading scores:
+    
   - Scores by school spending
   - Scores by school size
   - Scores by school type
