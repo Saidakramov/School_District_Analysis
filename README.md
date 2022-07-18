@@ -5,9 +5,9 @@
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 -How is the district summary affected?
   - Original data district_summary_df 
-  (Resources/original district data.png)
+  ![original](Resources/original district data.png)
   - New district summary df 
-  (Resources/original district data.png)
+  ![new](Resources/original district data.png)
   Total scores slightly decreased. 
 
 -How is the school summary affected?
