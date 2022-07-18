@@ -16,7 +16,7 @@
  <img width="977" alt="ths_original" src="https://user-images.githubusercontent.com/89552059/179436825-90fcfff4-a6a1-420c-8880-e25a4021192e.png">
   
   - New School Summary:
-<img width="973" alt="ths_new" src="https://user-images.githubusercontent.com/89552059/179436863-a1127583-efe2-413f-af75-7294c91b80f5.png">
+ <img width="973" alt="ths_new" src="https://user-images.githubusercontent.com/89552059/179436863-a1127583-efe2-413f-af75-7294c91b80f5.png">
 
 As we can see from the data, Thomas High School increased its scores significantly.
 
@@ -25,7 +25,7 @@ As we can see from the data, Thomas High School increased its scores significant
     <img width="972" alt="top5_old" src="https://user-images.githubusercontent.com/89552059/179436963-88aa1e7d-e1a7-4674-a4be-6491804c47b5.png">
     
     - New top 5 list:
-<img width="980" alt="Top5" src="https://user-images.githubusercontent.com/89552059/179434703-d7cfd098-425d-40ae-a2a9-793242ebe1fc.png">
+    <img width="980" alt="Top5" src="https://user-images.githubusercontent.com/89552059/179434703-d7cfd098-425d-40ae-a2a9-793242ebe1fc.png">
 
 Thomas High School remained at the same rank, even though their average scores slightly changed. 
 
@@ -42,11 +42,10 @@ As we can see, the only differences are between 9ths grade at Thomas High School
     
   - Scores by school spending
     - Original School Spending:
-    <img width="826" alt="spending_old" src="https://user-images.githubusercontent.com/89552059/179437939-c4d1cae8-db4f-4803-a5a7-bba7b45953ff.png">
+    <img width="822" alt="School_spending_old" src="https://user-images.githubusercontent.com/89552059/179440140-6450e9af-40d6-4329-8b80-7288256c15f9.png">
      
     - New School Spending:
-    
-<img width="824" alt="spending_new" src="https://user-images.githubusercontent.com/89552059/179437973-c9ff8a27-5ebe-4e56-9cfb-2c35322191d0.png">
+    <img width="824" alt="spending_new" src="https://user-images.githubusercontent.com/89552059/179437973-c9ff8a27-5ebe-4e56-9cfb-2c35322191d0.png">
 
 Spending differs very insignificantly for the $630-640 group.
   
