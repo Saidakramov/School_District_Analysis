@@ -1,11 +1,13 @@
 # School_District_Analysis
-##Overview of the school district analysis.
+## Overview of the school district analysis.
   This analysis aimed to determine the effect of corrupted data on the whole DataFrame. I was informed that Maria and her supervisor detected academic dishonesty regarding Thomas High School's 9th-grade math and reading scores. Therefore, I was tasked to eliminate the corrupted elements in the data and report their effects on the results. 
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 -How is the district summary affected?
-  - Original data district_summary_df had Average math score of 79.0%, Average reading score of 82.9%, Percentage passing math and reading 75% and 85.8 percenet respectively, Overall passing percentage 65.2%.
-  - New district summary df has 78.9%, 81.9%, 74.8%, 85.7% and 64.9% for the same columns respectively. 
+  - Original data district_summary_df 
+  (Resources/original district data.png)
+  - New district summary df 
+  (Resources/original district data.png)
   Total scores slightly decreased. 
 
 -How is the school summary affected?
